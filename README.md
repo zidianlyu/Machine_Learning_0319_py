@@ -21,13 +21,17 @@ bash run.sh
 ### Original Paint
 #### picture credit to Ming Li
 
-- source input
- <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/3-content.jpg" align="center" width="700" >
-
 - pattern
+
   <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/2-style2.jpg" align="center" width="700" >
 
+- source input
+
+ <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/3-content.jpg" align="center" width="700" >
+
+
 - source output
+
   <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/3-style-0313.jpg" align="center" width="700" >
 
 ### Summary
