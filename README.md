@@ -27,7 +27,7 @@ bash run.sh
 
 - source input
 
- <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/3-content.jpg" align="center" width="700" >
+  <img src="https://github.com/zidianlyu/Paint_As_Artists/blob/master/examples/3-content.jpg" align="center" width="700" >
 
 
 - source output
